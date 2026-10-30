@@ -56,7 +56,6 @@ open_to: [connections, freelance work, developer roles]
       </p>
       <p>
         🌐 <a href="https://booksyde.com.br/"><b>booksyde.com.br</b></a> ·
-        📦 <a href="https://github.com/Rock3tBR/BookSyde.com.br">repository</a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -69,7 +68,6 @@ open_to: [connections, freelance work, developer roles]
         <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
         <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
       </p>
-      <p>📦 <a href="https://github.com/Rock3tBR/gfinancy">repository</a></p>
     </td>
   </tr>
   <tr>
