@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D4178,50:146C94,100:00C8FF&text=Fernando%20Enrique&fontColor=FFFFFF&fontSize=46&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Java%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Real%20products&descSize=16&descAlignY=56&animation=fadeIn" width="100%" alt="Fernando Enrique — Full Stack Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D4178,50:146C94,100:00C8FF&text=Fernando%20Enrique&fontColor=FFFFFF&fontSize=46&fontAlignY=36&desc=Desenvolvedor%20Full%20Stack%20%E2%80%A2%20Java%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Produtos%20reais&descSize=16&descAlignY=56&animation=fadeIn" width="100%" alt="Fernando Enrique — Desenvolvedor Full Stack" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=00C8FF&center=true&vCenter=true&width=620&lines=Turning+ideas+into+products+people+use.;Java+%2B+Spring+Boot+on+the+back%2C+React+%2B+TypeScript+on+the+front.;Now%3A+books%2C+finance%2C+games+and+AI+agents." alt="Lines about what I do" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=00C8FF&center=true&vCenter=true&width=620&lines=Transformando+ideias+em+produtos+que+as+pessoas+usam.;Java+%2B+Spring+Boot+no+back%2C+React+%2B+TypeScript+no+front.;Hoje%3A+livros%2C+finan%C3%A7as%2C+jogos+e+agentes+de+IA." alt="Frases sobre o que eu faço" />
   </a>
 </p>
 
@@ -14,39 +14,39 @@
 </p>
 
 <p align="center">
-  <a href="https://portfoliofs.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-0D4178?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://portfoliofs.lovable.app/"><img src="https://img.shields.io/badge/Portfólio-0D4178?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" /></a>
   <a href="https://www.linkedin.com/in/fernandoessantos/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:enriquealves_72@hotmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://booksyde.com.br/"><img src="https://img.shields.io/badge/BookSyde-live-146C94?style=for-the-badge&logo=bookstack&logoColor=white" alt="BookSyde is live" /></a>
+  <a href="mailto:enriquealves_72@hotmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+  <a href="https://booksyde.com.br/"><img src="https://img.shields.io/badge/BookSyde-ao%20vivo-146C94?style=for-the-badge&logo=bookstack&logoColor=white" alt="BookSyde no ar" /></a>
 </p>
 
 ---
 
-## 👨‍💻 About me
+## 👨‍💻 Sobre mim
 
-I'm a software developer and a **Systems Analysis and Development** student. I like taking an idea all the way: modeling the database, writing the API, designing the interface and shipping it.
+Sou desenvolvedor de software e estudante de **Análise e Desenvolvimento de Sistemas**. Gosto de pegar uma ideia e levá-la até o fim: modelar o banco, escrever a API, desenhar a interface e colocar no ar.
 
 ```yaml
-name: Fernando Enrique
-focus: [Java, Spring Boot, TypeScript, React]
-building:
-  - BookSyde       # book platform, live
-  - GFinancy       # personal finance with the Grão mascot
-  - Arcadia        # desktop game launcher (Tauri + Rust)
-  - Agent Control  # dashboard to orchestrate AI agents
-learning: [software architecture, Rust, application security]
-open_to: [connections, freelance work, developer roles]
+nome: Fernando Enrique
+foco: [Java, Spring Boot, TypeScript, React]
+construindo:
+  - BookSyde       # plataforma literária, no ar
+  - GFinancy       # finanças pessoais com o mascote Grão
+  - Arcadia        # launcher desktop de jogos (Tauri + Rust)
+  - Agent Control  # painel para orquestrar agentes de IA
+aprendendo: [arquitetura de software, Rust, segurança de aplicações]
+aberto_a: [conexões, freelas, oportunidades como dev]
 ```
 
 ---
 
-## 🚀 Featured projects
+## 🚀 Projetos em destaque
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>📚 BookSyde</h3>
-      <p>A platform for the world of books: reading, bookshelves, a studio for authors and publishers, a marketplace and a literary map, with content in Portuguese and English.</p>
+      <p>Plataforma para o universo dos livros: leitura, estante, estúdio para autores e editoras, marketplace e mapa literário, com conteúdo em português e inglês.</p>
       <p>
         <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21" />
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
@@ -60,7 +60,7 @@ open_to: [connections, freelance work, developer roles]
     </td>
     <td width="50%" valign="top">
       <h3>💸 GFinancy</h3>
-      <p>Personal finance for web and mobile: transactions, cards, AI-powered statement import (text, CSV, PDF and spreadsheets), reports, due-date alerts and separate entities for personal and business IDs (CPF and CNPJ). It has a mascot, Grão.</p>
+      <p>Controle financeiro para web e celular: transações, cartões, faturas com importação por IA (texto, CSV, PDF e planilha), relatórios, alertas de vencimento e entidades separadas por CPF e CNPJ. Tem um mascote, o Grão.</p>
       <p>
         <img src="https://img.shields.io/badge/TanStack_Start-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Start" />
         <img src="https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
@@ -73,95 +73,95 @@ open_to: [connections, freelance work, developer roles]
   <tr>
     <td width="50%" valign="top">
       <h3>🎮 Arcadia Launcher</h3>
-      <p>A desktop launcher for Windows, Linux and macOS that organizes the games you own and opens your emulators. It works offline, with profiles, playtime and local achievements. Installers are built by GitHub Actions. <i>(MVP)</i></p>
+      <p>Launcher desktop para Windows, Linux e macOS que organiza os jogos que você possui e abre seus emuladores. Funciona offline, com perfis, tempo de jogo e conquistas locais. Os instaladores são gerados por GitHub Actions. <i>(MVP)</i></p>
       <p>
         <img src="https://img.shields.io/badge/Tauri_2-24C8DB?style=flat-square&logo=tauri&logoColor=white" alt="Tauri" />
         <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
         <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
       </p>
-      <p>📦 <a href="https://github.com/Rock3tBR/arcadia-launcher">repository</a></p>
+      <p>📦 <a href="https://github.com/Rock3tBR/arcadia-launcher">repositório</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>🤖 Agent Control</h3>
-      <p>A real-time local dashboard to monitor and orchestrate Claude Code agents. It has an n8n-style flow editor, approvals between agents, per-agent Git permissions and automatic fallback to another AI (Codex, Gemini) when the limit runs out. Everything stays on your machine.</p>
+      <p>Painel local em tempo real para acompanhar e orquestrar agentes do Claude Code. Tem editor de fluxos no estilo n8n, aprovações entre agentes, permissões de Git por agente e troca automática para outra IA (Codex, Gemini) quando o limite acaba. Tudo roda só na sua máquina.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
         <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
       </p>
-      <p>📦 <a href="https://github.com/Rock3tBR/controller-agents">repository</a></p>
+      <p>📦 <a href="https://github.com/Rock3tBR/controller-agents">repositório</a></p>
     </td>
   </tr>
 </table>
 
 <details>
-<summary><b>More</b></summary>
+<summary><b>Outros</b></summary>
 <br />
 
-| Project | What it is | Link |
+| Projeto | O que é | Link |
 |---|---|---|
-| 💻 Portfolio | My projects, skills and experience | [portfoliofs.lovable.app](https://portfoliofs.lovable.app/) |
-| 🧩 Exercism | Coding challenges to sharpen my logic | [repository](https://github.com/Rock3tBR/exercism) · [exercism.org](https://exercism.org/) |
+| 💻 Portfólio | Meus projetos, habilidades e experiências | [portfoliofs.lovable.app](https://portfoliofs.lovable.app/) |
+| 🧩 Exercism | Desafios de programação para treinar lógica | [repositório](https://github.com/Rock3tBR/exercism) · [exercism.org](https://exercism.org/) |
 
 </details>
 
 ---
 
-## 🛠️ Technologies & tools
+## 🛠️ Tecnologias e ferramentas
 
-**Languages**
+**Linguagens**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,ts,js,python,rust,html,css&perline=10" alt="Java, TypeScript, JavaScript, Python, Rust, HTML and CSS" />
+  <img src="https://skillicons.dev/icons?i=java,ts,js,python,rust,html,css&perline=10" alt="Java, TypeScript, JavaScript, Python, Rust, HTML e CSS" />
 </p>
 
-**Back end & data**
+**Back-end e dados**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,supabase,postgres,sqlite&perline=10" alt="Spring Boot, Node.js, Supabase, PostgreSQL and SQLite" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,supabase,postgres,sqlite&perline=10" alt="Spring Boot, Node.js, Supabase, PostgreSQL e SQLite" />
 </p>
 
-**Front end, desktop & delivery**
+**Front-end, desktop e entrega**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,vite,tauri,cloudflare,git,github,githubactions,vscode,idea&perline=10" alt="React, Tailwind, Vite, Tauri, Cloudflare, Git, GitHub, GitHub Actions, VS Code and IntelliJ" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite,tauri,cloudflare,git,github,githubactions,vscode,idea&perline=10" alt="React, Tailwind, Vite, Tauri, Cloudflare, Git, GitHub, GitHub Actions, VS Code e IntelliJ" />
 </p>
 
 ---
 
-## 📊 GitHub stats
+## 📊 GitHub em números
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rock3tBR&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rock3tBR&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rock3tBR&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rock3tBR&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rock3tBR&theme=tokyonight&hide_border=true" alt="Contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=Rock3tBR&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rock3tBR&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rock3tBR&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Gráfico de atividade" />
 </p>
 
 ---
 
-## 📬 Let's talk
+## 📬 Vamos conversar?
 
-I'm open to connections, projects and opportunities. The fastest way to reach me is LinkedIn or email.
+Estou aberto a conexões, projetos e oportunidades. O jeito mais rápido de falar comigo é pelo LinkedIn ou por e-mail.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fernandoessantos/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-  <a href="https://portfoliofs.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-0D4178?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore my portfolio" /></a>
-  <a href="mailto:enriquealves_72@hotmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
+  <a href="https://www.linkedin.com/in/fernandoessantos/"><img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conecte-se pelo LinkedIn" /></a>
+  <a href="https://portfoliofs.lovable.app/"><img src="https://img.shields.io/badge/Portfólio-Explorar-0D4178?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore meu portfólio" /></a>
+  <a href="mailto:enriquealves_72@hotmail.com"><img src="https://img.shields.io/badge/E--mail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Fale comigo por e-mail" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rock3tBR&color=146C94&style=flat-square&label=visits" alt="Profile visits" />
+  <img src="https://komarev.com/ghpvc/?username=Rock3tBR&color=146C94&style=flat-square&label=visitas" alt="Visitas ao perfil" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:00C8FF,50:146C94,100:0D4178&section=footer" width="100%" alt="" />
 
-<p align="center"><sub>Building, learning and growing — one commit at a time. 🚀</sub></p>
+<p align="center"><sub>Construindo, aprendendo e evoluindo — um commit de cada vez. 🚀</sub></p>
